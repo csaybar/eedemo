@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "earthengine-220405",
+  "private_key_id": "dcc58cbd871a914fdbdeea79877f7e83f2e46478",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDhVdR1xhLJyBZ1\n6z0Hv6fu+N+r4BzzyL3L3CI7o4Ct3FSB5GaKpcciuvj1Hp2pSrtUCMdqbHDr1Ts1\nyGxX7Sb8UoFM73CLw7hN0CRhQvaq2a3vtLzEeLLFPaThRIzS7ftLxDLGOSU7hkPT\noz0+PRmhHkMBfxIrUlAJD4hw3d90k0VZyYaL5HyDvqPaxrENstywHralzjIlsfro\n8mocw/+R+mNaoN1yLDkgwvgVaI5MvPLf3ZWa9vXeCX+CJ6bQ6hHc6gw2PN8dOiM2\nTrFJWnltJuCQy6fIHwEg0CORb4DRJBQisyYk16le2Gni1JGeUZ+ZdYwqsyxA9wNJ\nYgITA4iLAgMBAAECggEASnb8No1l4RPDxGUgLoLaAsFw3RI7Tx68BfXxxCaknA/v\nR1uMvW3KUIJcSli7PlpJbJxYFiXO7UhygDQDBc2DsCetvhh0Z2Oe8OwDUbb43/3+\nmnPuW7kNTtwvtBfct8nYXTHxm4r/8FtO584Oq5YydYmUGBb/kJxrgYsGClJwCUwQ\n3Cij014G9/3CfLUiHg9OQCyuR84ns09hJUMc/SokEdAEKQK4odPf2ZMTel2+B2t1\nrAhjiBYZPtFqnEomeOALEeLZh6ywZiIGqM6jTO3JsVpglmROYQsQTUhDG9m+YeXh\nQKwduwJZhTZS0pVFvkqyAMvfkT0LlncVJLhwNK3G4QKBgQD7P7fuoScNZd+NOah9\nzIjoLbWA8VntD0xHDI68xEKuE1uL3tICTkwiitS1OcjVP8ThxfXu0fXikwM+TupX\nO7ZsgVvmrHrR6DwAvSKGjnmn+YjK0wEnLCrFyakV4/M93se5by3NqFpZFMnTVe2l\nX8DOaXYH6BUpd48KOPOlRTn+KwKBgQDlmKpA/uO6ZodViCzvt2v977iGbS2Sc8uM\nLBpdN8vuh2tz8yLfpidVYEvs3waMtF6T+H5s+NJwpUJkSVoz5K0JORaE+D8ZPIFl\nhsSzqZb/mMSmTrLJmI/wCl3Xmp8unS4R3oxzauTXla4D31GM+Kkg0MxWAvsZNbtn\n43cj2I/PIQKBgQDLeS/pZsNsu0sPYVmN/54EgjgS4+MS9CevBoF2aG8j8PNb1Ck5\nytUnyE05M0HtScaVna9tKMa8Jpki1eA8o1Q6jYyyxI52/l/RrVqPpETr/0+ECtxN\nMBy3r3hrDP+J5KjVCTAL9MKukAJfT6C1JFXOFGSNRKwWuAe0nKjc+LJdnwKBgHGK\n0BeYddJGxgK8d0yNLvDDzkNcVr8oWK8XWGplH4r0mWUcBlEIAEeueZ3IpZqL0IHo\nz8zgOGHQuEaUJ/Gl0xTOkJ5tjfbS/0LQJRKcebopOIbuQGiF9BjHZ6UqKDKLNK9N\nmbOyVz1uHkJ3/AJ1Ll62I3cdvkO3WNiFmvO1M1lBAoGASnPL2OLteNoVTn0OnmfH\nfEuJezhCQfnnF+DFTxqQ4db2qNH3OLCZ5JXHtO3n+kIUDMBSC8Tb9mCOBj/zMWAg\n4SrSxM7XtI7IDf836VCsyS2Y5kk1n1lzkOmEL6mS7v97DrYRN9ijb29Bx9HjGlYg\nMz6RqNqAyLKF3FoW/XaY9EE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "earthengine-220405@appspot.gserviceaccount.com",
+  "client_id": "114795420198877190276",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/earthengine-220405%40appspot.gserviceaccount.com"
+}
